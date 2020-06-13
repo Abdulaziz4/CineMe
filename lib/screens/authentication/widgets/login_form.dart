@@ -257,6 +257,7 @@ class _LoginFormState extends State<LoginForm>
                       child: SlideTransition(
                         position: _slideAnimation,
                         child: TextFormField(
+                          style: TextStyle(color: kWhite),
                           decoration: InputDecoration(
                             hintText: "Confirm password",
                             hintStyle: TextStyle(
