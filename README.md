@@ -39,14 +39,7 @@ CineMe gets its source of movies information from TMDB, By utilizing their [API]
 
 ## Screenshots
 
-![](screenshot/1.png)                                      ![](screenshot/2.png)                        
-	                                 
-
- ![](screenshot/3.png)                                      ![](screenshot/4.png)    
-		
- ![](screenshot/5.png)                                     ![](screenshot/6.png)    
-
-![](screenshot/7.png)   
+<img src="screenshots/1.png"> 
 
 ## Dependencies
 
