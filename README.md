@@ -1,4 +1,4 @@
-# <img src="android\app\src\main\ic_launcher-web.png" alt="icon" width=30> CineMe
+# <img src="android\app\src\main\ic_launcher-web.png" alt="icon" width=40>  CineMe
 
 
 
@@ -39,7 +39,7 @@ CineMe gets its source of movies information from TMDB, By utilizing their [API]
 
 ## Screenshots
 
-<img src="screenshots/1.png"> 
+
 
 ## Dependencies
 
