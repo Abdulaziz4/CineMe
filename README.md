@@ -47,7 +47,7 @@ CineMe gets its source of movies information from TMDB, By utilizing their [API]
 |Search | Watchlist |More movie detail 
 | <img src="screenshots/3.png" width="250"> |
 
-|More Explore 
+
 
   
 
