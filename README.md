@@ -1,4 +1,4 @@
-# <img src="android\app\src\main\ic_launcher-web.png" alt="icon" width=40>  CineMe
+# <img src="android\app\src\main\ic_launcher-web.png" alt="icon" width=60>  CineMe
 
 
 
